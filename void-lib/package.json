@@ -1,0 +1,11 @@
+{
+  "name": "void-lib",
+  "version": "0.0.0-ALPHA",
+  "description": "前端组件框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toutatis_Gc",
+  "license": "ISC"
+}
